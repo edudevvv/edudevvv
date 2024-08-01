@@ -8,7 +8,7 @@
     - 💻 I'm Back-End Developer.
 
     - TypeScript / JavaScript / Python / PHP
-    - MongoDB / MySQL
-    - Express / Fastify
-    - Composer
+    - MongoDB / MySQL / SQLite / Prisma
+    - Express / Fastify / NestJS
+    - Docker / Composer
 ```
