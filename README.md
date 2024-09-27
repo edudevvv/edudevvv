@@ -1,14 +1,3 @@
-<p align='center'>
-  <b>nothing here</b><br>
-  <a href="https://www.instagram.com/dev.eduuu">Instagram</a>
-
-----
-
-```asm
-    - 💻 I'm Back-End Developer.
-
-    - TypeScript / JavaScript / Python / PHP
-    - MongoDB / MySQL / SQLite / Prisma
-    - Express / Fastify / NestJS
-    - Docker / Composer
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/edudevvv/edudevvv/c8841e6eaa76b1af8a08520a45fdeb3822b1535a/github-metrics.svg" />
+</div>
