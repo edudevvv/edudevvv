@@ -3,7 +3,7 @@ on:
   schedule: [{cron: "0 */6 * * *"}]
 
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push: {branches: []}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           output_action: commit
-          committer_branch: dist
+          committer_branch: main
           committer_message: "[Skip CI] Updating Metrics Picture"
 
           # Options
