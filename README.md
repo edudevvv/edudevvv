@@ -13,7 +13,7 @@
   <div class="tools">
     <span><b>Tools:</b></span>
     <br/>
-    <img src="https://skillicons.dev/icons?i=vscode,idea,docker,github,git,aws,googlecloud" />
+    <img src="https://skillicons.dev/icons?i=vscode,docker,github,git,aws,googlecloud" />
   </div>
    <div class="database">
     <span><b>Database:</b></span>
