@@ -15,15 +15,15 @@
     <br/>
     <img src="https://skillicons.dev/icons?i=vscode,idea,docker,github,git,aws,googlecloud" />
   </div>
-  <div class="frameworks">
-    <span><b>Frameworks:</b></span>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=nestjs,express,selenium,fastapi,discordjs" />
-  </div>
    <div class="database">
     <span><b>Database:</b></span>
     <br/>
     <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,redis,prisma" />
+  </div>
+  <div class="frameworks">
+    <span><b>Frameworks:</b></span>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=nestjs,express,selenium,fastapi,discordjs" />
   </div>
   <div class="additionals">
     <span><b>Additionals:</b></span>
