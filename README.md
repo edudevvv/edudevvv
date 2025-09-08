@@ -28,7 +28,7 @@
   <div class="additionals">
     <span><b>Additionals:</b></span>
     <br/>
-    <img src="https://skillicons.dev/icons?i=raspberrypi,cloudflare,nginx,postman,rabbitmq,regex,spring" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi,cloudflare,nginx,postman,rabbitmq,regex" />
   </div>
   
 </div>
