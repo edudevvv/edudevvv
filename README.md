@@ -1,7 +1,7 @@
 <div align="center">
   <span>i'm just a developer :)</span>
   
-  <span>Studying <b>Computer Science</b> 💻</span>
+  <span>Studying <b>Computer Science (2/8)</b> 💻</span>
 </div>
 
 <div align="center">
@@ -30,5 +30,4 @@
     <br/>
     <img src="https://skillicons.dev/icons?i=raspberrypi,cloudflare,nginx,postman,rabbitmq,regex" />
   </div>
-  
 </div>
