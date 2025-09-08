@@ -23,7 +23,7 @@
   <div class="frameworks">
     <span><b>Frameworks:</b></span>
     <br/>
-    <img src="https://skillicons.dev/icons?i=nestjs,express,selenium,fastapi,discordjs" />
+    <img src="https://skillicons.dev/icons?i=nestjs,express,selenium,fastapi,discordjs,bots" />
   </div>
   <div class="additionals">
     <span><b>Additionals:</b></span>
